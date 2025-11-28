@@ -57,5 +57,5 @@ I’m **Krupason**, an AI/ML engineering student passionate about creating innov
 ## 📬 Connect with Me  
 🌍 [GitHub](https://github.com/krupason009)  
 💼 [LinkedIn](https://www.linkedin.com/in/johnson-chikkala-818353270)  
-📧 Email: krupason664@gmail.com  
+📧 krupason664@gmail.com  
 
